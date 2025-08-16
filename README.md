@@ -8,9 +8,9 @@ Run the bookstore application:
         DB_USERNAME=root
         DB_PASSWORD=
 
-2.    Run Terminal vscode:
-      php artisan migrate
-      php artisan db:seed
+2.      Run Terminal vscode:
+        php artisan migrate
+        php artisan db:seed
 
-3.    Run the server:
-      php artisan serve
+3.      Run the server:
+        php artisan serve
